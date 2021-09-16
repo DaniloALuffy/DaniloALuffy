@@ -1,7 +1,11 @@
 
 ### Eai, eu sou o Danilo Arguelho! ✌️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloaluffy&show_icons=true&theme=cobalt)
+![](https://github.com/DaniloALuffy/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/DaniloALuffy/github-stats/blob/master/generated/languages.svg)
+
+
 
 ### Tecnologias que eu uso e gosto
 <div>
