@@ -3,7 +3,7 @@
 
 ![Danilo Arguelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloaluffy&show_icons=true&theme=cobalt)
 
-![Danilo Arguelho's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&username=DaniloALuffy))
+![Danilo Arguelho's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&username=DaniloALuffy)
 
 
 ### Tecnologias que eu uso e gosto
