@@ -1,5 +1,6 @@
 
 ### Eai, eu sou o Danilo Arguelho! ✌️
+Sou um desenvolvedor ABAP, estagiando na DXC Technology!
 
 ![Danilo Arguelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloaluffy&show_icons=true&theme=cobalt)
 
